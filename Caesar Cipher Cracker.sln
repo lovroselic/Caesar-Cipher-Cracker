@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caesar Cipher Cracker", "Caesar Cipher Cracker.vcxproj", "{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Debug|x64.ActiveCfg = Debug|x64
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Debug|x64.Build.0 = Debug|x64
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Debug|x86.Build.0 = Debug|Win32
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Release|x64.ActiveCfg = Release|x64
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Release|x64.Build.0 = Release|x64
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Release|x86.ActiveCfg = Release|Win32
+		{0E49A95A-F2C4-4E96-90ED-1CD7876A9F26}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A22E20-6801-4A75-892D-E81ACB622B99}
+	EndGlobalSection
+EndGlobal
